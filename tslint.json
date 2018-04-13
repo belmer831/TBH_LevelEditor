@@ -1,0 +1,11 @@
+{
+	"rules": {
+		"semicolon": true,
+		"quotemark": [
+			true,
+			"single",
+			"avoid-escape"
+		],
+		"trailing-comma": false
+	}
+}

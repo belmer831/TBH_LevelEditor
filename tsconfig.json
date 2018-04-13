@@ -1,0 +1,27 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"rootDir": "src",
+		"module": "esnext",
+		"moduleResolution": "node",
+		"target": "esnext",
+		"jsx": "react-native",
+		"jsxFactory": "React.createElement",
+		"allowSyntheticDefaultImports": true,
+		"experimentalDecorators": true,
+		"noImplicitAny": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"preserveConstEnums": true,
+		"removeComments": true,
+		"strictNullChecks": true,
+		"skipLibCheck": true
+	},
+	"include": [
+		"src/**/*"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
